@@ -18,7 +18,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: ashokainapur/repo:6
+      - image: ashokainapur/repo:7
         name: myapp
         resources: {}
 status: {}
